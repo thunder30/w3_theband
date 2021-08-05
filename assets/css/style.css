@@ -191,7 +191,7 @@ html {
     /* 50% chiều ngang chính nó */
     padding-top: 50%;
     /* background-image background-position background-size background-repeat */
-    background: url('/assets/img/slider/chicago.jpg') top center / cover no-repeat;
+    background: url('../img/slider/chicago.jpg') top center / cover no-repeat;
     
 }
 
